@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>priority-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-27 06:19:49</sys_created_on>
+        <sys_id>d10c5b732f70111026c893acf699b6f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>priority-FieldValue</sys_name>
+        <sys_package display_value="testSnow" source="x_669702_testsnow">253b9bb72f30111026c893acf699b6e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testSnow">253b9bb72f30111026c893acf699b6e1</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_d10c5b732f70111026c893acf699b6f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-27 06:19:49</sys_updated_on>
+        <view_config display_value="Incident Task List Screen View Config">110c9f332f70111026c893acf699b675</view_config>
+        <view_template_slot display_value="text_05">b4f4c13041275010f877183fc9b8be56</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

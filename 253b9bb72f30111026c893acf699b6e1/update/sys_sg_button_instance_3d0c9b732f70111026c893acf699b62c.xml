@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Incident Task)">610c9b732f70111026c893acf699b626</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Incident Task)</name>
+        <order/>
+        <parent>250c9b732f70111026c893acf699b618</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-27 06:19:51</sys_created_on>
+        <sys_id>3d0c9b732f70111026c893acf699b62c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Incident Task)</sys_name>
+        <sys_package display_value="testSnow" source="x_669702_testsnow">253b9bb72f30111026c893acf699b6e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testSnow">253b9bb72f30111026c893acf699b6e1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_3d0c9b732f70111026c893acf699b62c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-27 06:19:51</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=3d0c9b732f70111026c893acf699b62c"/>
+</record_update>
